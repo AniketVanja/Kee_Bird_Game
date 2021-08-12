@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863821826374",
+    "firebase_url": "https://kee-bird-game.firebaseio.com",
+    "project_id": "kee-bird-game",
+    "storage_bucket": "kee-bird-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863821826374:android:1418e2dab8f7df59c1fd47",
+        "android_client_info": {
+          "package_name": "kee.com.birdgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863821826374-gvbienhn1g10741sqsalpn5muqsio7ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kee.com.birdgame",
+            "certificate_hash": "f06a86a2d9bba858933e628209bbd62a3d976984"
+          }
+        },
+        {
+          "client_id": "863821826374-ulmpj0ginffrg7mlsdd8p3hqv7p6doe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA331mYHJORr7zwc68Lj8Xe7eRdDeXmTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863821826374-ulmpj0ginffrg7mlsdd8p3hqv7p6doe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
